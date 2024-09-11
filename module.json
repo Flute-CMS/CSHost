@@ -1,0 +1,8 @@
+{
+    "name": "CSHost",
+    "version": "1.0.0",
+    "description": "Integrates a CSHost into the Flute",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\CSHost\\ServiceProviders\\CSHostServiceProvider"],
+    "dependencies": {}
+}
